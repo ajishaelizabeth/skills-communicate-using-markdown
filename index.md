@@ -1,10 +1,12 @@
-# Hello
-![Image of Yaktocat!](https://octodex.github.com/images/yaktocat.png)
+# Communicate Using Markdown
+#### Look at this image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+#### Its a code 
 
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
-- [X] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [X] Introduce myself to the world
+print('Hi! Its me')
+Hi! Its me
+
+#### Tasklist  
+- [x] Done introduction to github
+- [x] Completed cat photo app
+- [ ] Added markdown
